@@ -138,7 +138,7 @@
     "@saekitominaga/file-size-format": "^1.0.2",
     "date-fns": "^2.28.0",
     "node-fetch": "^3.2.1",
-    "tempy": "^2.0.0"
+    "tempy": "^3.0.0"
   },
   "devDependencies": {
     "@raycast/eslint-config": "^1.0.6",
