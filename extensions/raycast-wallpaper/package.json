@@ -120,7 +120,7 @@
   "dependencies": {
     "@raycast/api": "^1.57.1",
     "@raycast/utils": "^1.9.1",
-    "axios": "^1.4.0",
+    "axios": "^1.6.8",
     "file-url": "^4.0.0",
     "fs-extra": "^10.1.0"
   },
