@@ -96,7 +96,7 @@
     "@raycast/api": "^1.52.1",
     "@raycast/utils": "^1.7.0",
     "date-fns": "^2.30.0",
-    "openai": "^3.2.1",
+    "openai": "^4.0.0",
     "youtube-transcript": "^1.0.6",
     "ytdl-core": "^4.11.4"
   },
