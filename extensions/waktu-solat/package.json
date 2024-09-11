@@ -279,9 +279,9 @@
   "dependencies": {
     "@raycast/api": "^1.59.0",
     "@raycast/utils": "^1.10.0",
-    "axios": "^1.5.1",
+    "axios": "^1.6.8",
     "humanize-duration": "^3.30.0",
-    "jsdom": "^22.1.0",
+    "jsdom": "^24.1.1",
     "moment": "^2.29.4",
     "node-fetch": "^3.3.2",
     "node-html-parser": "^6.1.10"
